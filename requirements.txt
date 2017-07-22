@@ -1,0 +1,7 @@
+pyyaml
+numpy
+pandas
+aiohttp
+tqdm
+zipfile
+tables
