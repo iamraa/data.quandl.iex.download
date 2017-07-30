@@ -5,3 +5,4 @@ aiohttp
 tqdm
 zipfile
 tables
+psycopg2

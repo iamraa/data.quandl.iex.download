@@ -1,6 +1,7 @@
 # Скачивание цен с Quandl и IEX #
 
-Статья:
+Статьи:
 
-[История цен с Quandl и IEX](https://quantrum.me/1537-istoriya-cen-s-quandl-i-iex/)
+* [История цен с Quandl и IEX](https://quantrum.me/1537-istoriya-cen-s-quandl-i-iex/)
+* [Работа с ценами в Python и PostgreSQL](https://quantrum.me/1447-rabota-s-cenami-v-python-i-postgresql/)
 
